@@ -1,5 +1,5 @@
 ## 🛠️ Under Construction
-# This Application content is currently being built or actively worked on
+## This Application is currently being built or actively worked on
 
 # sama7g54-bluetooth-rnbd451
 This project demonstrates how to enable Bluetooth-based communication between the SAMA7G54 Evaluation Kit and a mobile device using the RNBD451 add-on board. The primary goal is to establish a wireless serial communication interface that allows for simple text and command exchange between the embedded Linux board and a mobile phone over Bluetooth.
